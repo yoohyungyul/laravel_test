@@ -1,0 +1,8 @@
+ip  211.253.8.35
+
+telnet(ftp) root / kmh#22nd5818
+telnet(ftp) 22nd / kmh#22nd5818
+
+db 
+root / clinicinsite#22nd5818
+kmhglobal / 22nd / kmh#22nd0704
